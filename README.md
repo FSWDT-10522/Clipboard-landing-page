@@ -1,4 +1,5 @@
 # Frontend Mentor - Clipboard landing page
+https://fswdt-10522.github.io/Clipboard-landing-page/index.html
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
